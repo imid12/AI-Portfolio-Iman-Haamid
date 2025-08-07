@@ -29,6 +29,15 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
 ---
 
+## Setup Instructions
+
+**Clone the repository:**
+   ```bash
+   git clone https://github.com/imid12/miniature-eureka-Group5.git
+   cd miniature-eureka-Group5
+   ```
+---
+
 ## Repository Structure
 
 ```
