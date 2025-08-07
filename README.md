@@ -33,8 +33,8 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/imid12/miniature-eureka-Group5.git
-   cd miniature-eureka-Group5
+   git clone https://github.com/imid12/AI-Portfolio-Iman-Haamid.git
+   cd AI-Portfolio-Iman-Haamid
    ```
 ---
 
