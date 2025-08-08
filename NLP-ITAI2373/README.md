@@ -21,6 +21,7 @@ The specific sub-directory, NLP-ITAI2373, focuses on Natural Language Processing
       - [L07\_ImanHaamid\_ITAI\_2373.ipynb](/NLP-ITAI2373/code/L07_ImanHaamid_ITAI_2373.ipynb)
       - [Midterm\_NewsBot\_Intelligence\_System\_Group\_5\_ITAI2373.ipynb](/NLP-ITAI2373/code/Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb)
       - [MidtermFirstTry.ipynb](/NLP-ITAI2373/code/MidtermFirstTry.ipynb)
+      - [MidtermFirstTry.ipynb](/NLP-ITAI2373/code/Final_NewsBot_Intelligence_System_2_0_Group_5_ITAI2373)
 
   - **[docs/](/NLP-ITAI2373/docs)**
 
