@@ -67,10 +67,11 @@ AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 
 ## Contact Me
 
-    LinkedIn: [Iman.Haamid](https://www.linkedin.com/in/iman-haamid-5753a25/)
+    LinkedIn: 
+    [Iman.Haamid](https://www.linkedin.com/in/iman-haamid-5753a25/)
     
     Email: [info@dimaah.com]
 
-    Portfolio/Website: [Your Personal Portfolio URL, if you have one]
+    Portfolio/Website: 
 
 
