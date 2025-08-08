@@ -51,6 +51,7 @@ AI-Portfolio-Iman-Haamid/NLP-ITAI2373/
 │   ├── L07_ImanHaamid_ITAI_2373.ipynb
 │   ├── Midterm_NewsBot_Intelligence_System_Group_5_ITAI2373.ipynb
 │   ├── MidtermFirstTry.ipynb
+│   ├── Final_NewsBot_Intelligence_System_2_0_Group_5_ITAI2373
 │   └── ...
 ├── docs/
 │   ├── journal entries/
