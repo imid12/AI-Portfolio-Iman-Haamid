@@ -26,7 +26,7 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
    [ITAI 2373](/NLP-ITAI2373)  - Natural Language Processing: Explored techniques for text analysis, including sentiment analysis, text classification, and chatbot development.
    
-   [ITAI 1378](/Comp_Vision) - Comp Vision-Artificial Intel-15983ITAI-1378 - Visual Recognition 👁️- Modern Deep Learning Architectures 🧠 - Visual Language Models (VLMs) and AI Agents 🤖
+   [ITAI 1378](/Comp_Vision) - Comp Vision-Artificial Intel-1598: Visual Recognition 👁️- Modern Deep Learning Architectures 🧠 - Visual Language Models (VLMs) and AI Agents 🤖
 
 ---
 
