@@ -20,7 +20,7 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
     Tools & Platforms: Git, Jupyter, Google Colab
 
-    Core Concepts: Natural Language Processing (NLP)
+    Core Concepts: Natural Language Processing (NLP) 
 ---
 ## Coursework
 
