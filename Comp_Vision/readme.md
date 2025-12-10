@@ -1,5 +1,5 @@
 # Comp Vision-Artificial Intel-15983 (Comp_Vision) 
-<img src="../images/Gemini_Generated_Image_hxc41zhxc41zhxc4.png" width="350" height="350" alt="NLP-ITAI2373">
+<img src="../images/Gemini_Generated_Image_qdk1jqqdk1jqqdk1.png" width="350" height="350" alt="CVAI-ITAI1373">
 
 This folder contains computer vision projects and supporting artifacts from the AI Portfolio of Iman Haamid. It includes example notebooks, code, and documentation for small experiments, demos, and learning notes.
 - code/ — directory intended for project code (currently present).
