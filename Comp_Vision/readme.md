@@ -2,14 +2,13 @@
 
 This folder contains computer vision projects and supporting artifacts from the AI Portfolio of Iman Haamid. It includes example notebooks, code, and documentation for small experiments, demos, and learning notes.
 
-## What I found here
-- Comp Vision-Artificial Intel-15983 — a single file present at the top-level (filename preserved).
+## Comp Vision-Artificial Intel-15983 
 - code/ — directory intended for project code (currently present).
 - docs/ — directory intended for written documentation, reports, and notes (currently present).
 
 If you expect other notebooks, models, or assets, check the `code/` and `docs/` subfolders for additional files.
 
-## Project structure (suggested)
+## Project structure
 - Comp_Vision/
   - README.md — this file
   - Comp Vision-Artificial Intel-15983 — (existing file)
