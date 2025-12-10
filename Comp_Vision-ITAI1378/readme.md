@@ -49,31 +49,10 @@ conda activate compvision
 pip install -r requirements.txt
 ```
 
-Add a `requirements.txt` in `code/` if you want pinned dependencies for reproducibility.
-
-## How to run examples
-- Open notebooks in `code/notebooks/` with JupyterLab or Jupyter Notebook and run the cells.
-- For scripts in `code/src/`, run them from the repository root:
-  ```bash
-  python code/src/train.py --config code/configs/your_config.yaml
-  ```
-- If you have saved models in `code/models/`, create a small evaluation script to load the checkpoint and run inference on sample images.
-
-## Data
-- Place datasets in a `data/` folder at the repository root or document dataset paths in each notebook's top cells.
-- Avoid committing large datasets to the repo; instead provide download scripts or pointers to external sources.
-
-## Recommended next steps (for this folder)
-1. Move any runnable notebooks and scripts into `code/` and add clear README sections in `code/` explaining how to run each example.
-2. Add a `requirements.txt` listing package versions.
-3. Add sample data downloader scripts or instructions in `docs/`.
-4. Consider adding small README files inside `code/` and `docs/` describing contents.
-
 ## Contributing
 - If you'd like to contribute, add a new folder under `code/` for your experiment, include instructions and dependencies, and open a pull request.
 
-## License & Contact
-- Add your preferred license file (e.g., LICENSE) at the repository root.
+## Contact
 - Author: Iman Haamid — GitHub: @imid12
 
 ---
