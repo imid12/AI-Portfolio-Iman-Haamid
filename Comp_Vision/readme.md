@@ -76,7 +76,3 @@ Add a `requirements.txt` in `code/` if you want pinned dependencies for reproduc
 - Author: Iman Haamid — GitHub: @imid12
 
 ---
-
-Notes on what I did: I inspected the Comp_Vision folder contents (saw the lone file "Comp Vision-Artificial Intel-15983" plus `code/` and `docs/` directories) and drafted this README to explain the folder purpose, setup, structure, and next steps.
-
-What's next: I can push this README into the repository for you, generate a `requirements.txt`, or create small starter notebooks and example scripts under `code/`. Tell me which of those you'd like me to do and I will add them to the repo.
