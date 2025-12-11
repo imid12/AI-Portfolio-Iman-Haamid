@@ -1,10 +1,11 @@
-### **FocusLens**
+## **FocusLens**
 
 **Real-Time User Engagement Monitoring System**
 
 **FocusLens** is a computer vision application designed to monitor user alertness and presence in real-time during online lectures. It utilizes a hybrid architecture combining **MediaPipe Face Mesh** for geometric tracking and a **Support Vector Machine (SVM)** for pattern recognition to classify user status as *Attentive*, *Drowsy*, or *Absent*.
 
 **Author:** Haamid Iman
+
 **Course:** ITAI 1378
 -----
 
