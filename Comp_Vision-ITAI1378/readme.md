@@ -4,6 +4,7 @@
 This folder contains computer vision projects and supporting artifacts from the AI Portfolio of Iman Haamid. It includes example notebooks, code, and documentation for small experiments, demos, and learning notes.
 - code/ — directory intended for project code (currently present).
 - docs/ — directory intended for written documentation, reports, and notes (currently present).
+- FocusLens_Final_Project/ - Final Project named FocusLens
 
 If you expect other notebooks, models, or assets, check the `code/` and `docs/` subfolders for additional files.
 
