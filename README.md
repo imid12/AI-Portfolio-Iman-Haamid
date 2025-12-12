@@ -16,11 +16,11 @@ A demonstration of my skills and knowledge gained during my studies in the Appli
 
     Programming Languages: Python, Rust
 
-    AI/ML Frameworks: Scikit-learn, VADER, TextBlob, spaCy
+    AI/ML Frameworks: Scikit-learn, VADER, TextBlob, spaCy, OpenCV
 
     Tools & Platforms: Git, Jupyter, Google Colab
 
-    Core Concepts: Natural Language Processing (NLP) 
+    Core Concepts: Natural Language Processing (NLP), Computer Vision
 ---
 ## Coursework
 
