@@ -9,7 +9,7 @@ This folder contains computer vision projects and supporting artifacts from the 
 If you expect other notebooks, models, or assets, check the `code/` and `docs/` subfolders for additional files.
 
 ## Project structure
-- Comp_Vision/
+- Comp_Vision-ITAI1378/
   - README.md — this file
   - Comp Vision-Artificial Intel-15983 — (existing file)
   - code/ — Python scripts, notebooks, training & evaluation code
