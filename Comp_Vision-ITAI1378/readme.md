@@ -12,6 +12,7 @@ If you expect other notebooks, models, or assets, check the `code/` and `docs/` 
 - Comp_Vision-ITAI1378/
   - README.md — this file
   - Comp Vision-Artificial Intel-15983 — (existing file)
+  - FocusLens_Final_Project/ - Final Project named FocusLens
   - code/ — Python scripts, notebooks, training & evaluation code
     - notebooks/ — Jupyter notebooks demonstrating experiments
     - src/ — reusable modules and utilities
