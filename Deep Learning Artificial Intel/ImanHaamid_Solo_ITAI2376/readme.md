@@ -1,4 +1,4 @@
-## 🏛️ System Architecture
+## 🏛️ System Architecture - Neural Steward: Highlights the LSTM (Neural) and the Agent (Steward)
 
 <img width="630" height="514" alt="image" src="https://github.com/user-attachments/assets/d3b989c3-2b81-4bec-8579-ebcde43fc5d3" />
 
