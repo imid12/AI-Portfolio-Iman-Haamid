@@ -1,8 +1,57 @@
 # Deep Learning & Artificial Intelligence Portfolio
 
+<div align="center">
+
+![Deep Learning Portfolio Badge](https://img.shields.io/badge/Deep%20Learning-AI%20Portfolio-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-LSTM%20%26%20Diffusion-red?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Advanced Deep Learning Projects | Neural Steward | Diffusion Models | Financial AI**
+
+</div>
+
+---
+
 This folder contains deep learning and AI projects from the AI Portfolio of Iman Haamid. It includes Jupyter notebooks, documentation, and code for experiments, labs, and the Neural Steward final project.
 
-## Project Structure
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Latest-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Lab-f37726?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-ML-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 📊 Portfolio Architecture
+
+```
+┌─────────────────────────────────────────────────────┐
+│     Deep Learning & AI Portfolio Structure          │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  ┌──────────────┐  ┌──────────────┐  ┌───────────┐ │
+│  │    CODE      │  │    DOCS      │  │  FINAL    │ │
+│  │  (Labs)      │  │  (Reports)   │  │  PROJECT  │ │
+│  ├──────────────┤  ├──────────────┤  ├───────────┤ │
+│  │ • L05, L08   │  │ • Diffusion  │  │ • Neural  │ │
+│  │   L09        │  │ • Deep       │  │   Steward │ │
+│  │ • Module 02  │  │   Thinkers   │  │ • LSTM +  │ │
+│  │   Module 03  │  │ • Reports    │  │   Agents  │ │
+│  └──────────────┘  └──────────────┘  └───────────┘ │
+│         │                  │                 │      │
+│         └──────────────────┴─────────────────┘      │
+│                     │                               │
+│        🤖 LSTM Neural Networks 🤖                  │
+│        📈 Agent-Based Modeling 📈                  │
+│        💰 Financial Forecasting 💰                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+## 📁 Project Structure
 
 ```
 Deep Learning Artificial Intel/
@@ -35,7 +84,7 @@ Deep Learning Artificial Intel/
         └── requirements.txt — Project dependencies
 ```
 
-## Overview of Contents
+## 📚 Overview of Contents
 
 ### Code/
 Jupyter notebooks containing course assignments and lab work:
@@ -56,7 +105,7 @@ The capstone project combining LSTM neural networks with agent-based modeling fo
 - `Docs/Historical Spending - transactions.csv` — Training dataset
 - `REFLECTION.md` — Project insights and learnings
 
-## Setup & Requirements
+## ⚙️ Setup & Requirements
 
 ### Environment Setup
 A typical environment to run the examples in this folder requires:
@@ -91,7 +140,7 @@ pip install -r requirements.txt
 ### For the Final Project
 See `ImanHaamid_Solo_ITAI2376/Docs/requirements.txt` for project-specific dependencies.
 
-## Running the Notebooks
+## 🏃 Running the Notebooks
 
 1. Activate your virtual environment
 2. Start Jupyter Lab:
@@ -100,7 +149,7 @@ See `ImanHaamid_Solo_ITAI2376/Docs/requirements.txt` for project-specific depend
    ```
 3. Navigate to and open any `.ipynb` file in the `Code/` or `ImanHaamid_Solo_ITAI2376/Notebook/` directories
 
-## Contributing
+## 🤝 Contributing
 
 To contribute or add new experiments:
 1. Create a new notebook or folder under `Code/`
@@ -108,8 +157,16 @@ To contribute or add new experiments:
 3. Add dependencies to `requirements.txt`
 4. Open a pull request with a summary of changes
 
-## Contact
+## 📧 Contact
 
 - **Author:** Iman Haamid
 - **GitHub:** [@imid12](https://github.com/imid12)
 - **Repository:** [AI-Portfolio-Iman-Haamid](https://github.com/imid12/AI-Portfolio-Iman-Haamid)
+
+---
+
+<div align="center">
+
+**Made with ❤️ for Deep Learning Research & Development**
+
+</div>
