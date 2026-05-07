@@ -1,50 +1,115 @@
-This folder contains computer vision projects and supporting artifacts from the AI Portfolio of Iman Haamid. It includes example notebooks, code, and documentation for small experiments, demos, and learning notes.
-- code/ — directory intended for project code (currently present).
-- docs/ — directory intended for written documentation, reports, and notes (currently present).
-- FocusLens_Final_Project/ - Final Project named FocusLens
+# Deep Learning & Artificial Intelligence Portfolio
 
-If you expect other notebooks, models, or assets, check the `code/` and `docs/` subfolders for additional files.
+This folder contains deep learning and AI projects from the AI Portfolio of Iman Haamid. It includes Jupyter notebooks, documentation, and code for experiments, labs, and the Neural Steward final project.
 
-## Project structure
-- Deep Learning Artificial Intel ITAI2376/
-  - README.md — this file
-  - ImanHaamid_Solo_ITAI2376/ - Final Project named Neural Steward: Highlights the LSTM (Neural) and the Agent (Steward).
-  - code/ — Python scripts, notebooks, training & evaluation code
-    - notebooks/ — Jupyter notebooks demonstrating experiments
-    - src/ — reusable modules and utilities
-    - models/ — saved model checkpoints
-  - docs/ — writeups, diagrams, design notes, reports
+## Project Structure
 
-## Setup & requirements
-A typical environment to run the examples in this folder:
+```
+Deep Learning Artificial Intel/
+├── README.md — this file
+├── Code/ — Jupyter notebooks for course labs and experiments
+│   ├── L05_Iman_Haamid_ITAI2376.ipynb — Lab 5 assignment
+│   ├── L08_Diffusion_ImanHaamid_ITAI_2376.ipynb — Lab 8: Diffusion models
+│   ├── L09_ImanHaamid_ITAI_2376.ipynb — Lab 9 assignment
+│   ├── Module_02_Lab_Iman_Haamid.ipynb — Module 2 lab work
+│   └── Module_03_Lab_ImanHaamid.ipynb — Module 3 lab work
+│
+├── Docs/ — Documentation, reports, and reference materials
+│   ├── A02_Deepthinkers_Sha'RiseGriggs_ITAI2376-1.pdf — DeepThinkers assignment
+│   ├── A03_DeepThinkers_ShariseGriggs_ITAI2376_pptx.pptx — DeepThinkers presentation
+│   ├── A04_DeepThinkers_Andre_Ellis (1).pdf — DeepThinkers contribution
+│   └── L08_Diffusion_ImanHaamid_ITAI_2376-1.pdf — Diffusion lab report
+│
+└── ImanHaamid_Solo_ITAI2376/ — Final Project: Neural Steward
+    ├── README.md — Project overview
+    ├── LICENSE — Project license
+    ├── REFLECTION.md — Project reflection and learnings
+    ├── .gitignore — Git configuration
+    │
+    ├── Notebook/ — Main project notebook
+    │   └── ImanHaamid_Solo_ITAI2376.ipynb — Neural Steward implementation
+    │
+    └── Docs/ — Project documentation and data
+        ├── ImanHaamid_Solo_ITAI2376.pdf — Project report
+        ├── Historical Spending - transactions.csv — Dataset
+        └── requirements.txt — Project dependencies
+```
+
+## Overview of Contents
+
+### Code/
+Jupyter notebooks containing course assignments and lab work:
+- **L05, L08, L09**: Lab assignments from course ITAI2376
+- **Module 02, Module 03**: Module-based lab exercises
+
+### Docs/
+Supporting documentation including:
+- DeepThinkers collaborative project materials (reports and presentations)
+- Detailed lab reports, particularly for the diffusion models assignment
+
+### ImanHaamid_Solo_ITAI2376/ - Neural Steward Final Project
+The capstone project combining LSTM neural networks with agent-based modeling for financial forecasting and decision-making.
+
+**Key Files:**
+- `Notebook/ImanHaamid_Solo_ITAI2376.ipynb` — Main implementation
+- `Docs/ImanHaamid_Solo_ITAI2376.pdf` — Comprehensive project report
+- `Docs/Historical Spending - transactions.csv` — Training dataset
+- `REFLECTION.md` — Project insights and learnings
+
+## Setup & Requirements
+
+### Environment Setup
+A typical environment to run the examples in this folder requires:
 
 - Python 3.8+
 - pip or conda
-- Common packages:
+- Key packages:
   - numpy
   - pandas
   - matplotlib
-  - jupyterlab / notebook
+  - jupyter lab / notebook
+  - torch / tensorflow
+  - scikit-learn
+  - tqdm
 
-Example (venv + pip):
+**Example (venv + pip):**
 ```bash
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-# or install common packages:
-pip install numpy opencv-python matplotlib scikit-learn torch torchvision jupyterlab tqdm
+# Or install common packages:
+pip install numpy pandas matplotlib scikit-learn torch torchvision jupyterlab tqdm
 ```
 
-If you prefer conda:
+**Example (conda):**
 ```bash
-conda create -n compvision python=3.9
-conda activate compvision
+conda create -n deeplearning python=3.9
+conda activate deeplearning
 pip install -r requirements.txt
 ```
+
+### For the Final Project
+See `ImanHaamid_Solo_ITAI2376/Docs/requirements.txt` for project-specific dependencies.
+
+## Running the Notebooks
+
+1. Activate your virtual environment
+2. Start Jupyter Lab:
+   ```bash
+   jupyter lab
+   ```
+3. Navigate to and open any `.ipynb` file in the `Code/` or `ImanHaamid_Solo_ITAI2376/Notebook/` directories
 
 ## Contributing
-- If you'd like to contribute, add a new folder under `code/` for your experiment, include instructions and dependencies, and open a pull request.
+
+To contribute or add new experiments:
+1. Create a new notebook or folder under `Code/`
+2. Include a clear description of the experiment or lab work
+3. Add dependencies to `requirements.txt`
+4. Open a pull request with a summary of changes
 
 ## Contact
-- Author: Iman Haamid — GitHub: @imid12
 
+- **Author:** Iman Haamid
+- **GitHub:** [@imid12](https://github.com/imid12)
+- **Repository:** [AI-Portfolio-Iman-Haamid](https://github.com/imid12/AI-Portfolio-Iman-Haamid)
