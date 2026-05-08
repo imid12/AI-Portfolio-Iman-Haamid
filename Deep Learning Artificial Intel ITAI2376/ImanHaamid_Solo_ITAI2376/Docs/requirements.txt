@@ -1,0 +1,11 @@
+crewai
+crewai_tools
+langchain-google-genai
+tensorflow
+pandas
+numpy
+scikit-learn
+gspread
+python-dotenv
+langchain-chroma
+pip
